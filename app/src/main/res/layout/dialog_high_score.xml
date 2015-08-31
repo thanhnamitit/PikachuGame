@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_enter_name"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/textViewHighScore"
+        style="@style/myStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="Highscore"
+        android:textColor="#FF3D00" />
+
+    <EditText
+        android:id="@+id/editTextHighScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewHighScore"
+        android:layout_below="@+id/textViewHighScore"
+        android:layout_marginLeft="-10dp"
+        android:layout_marginRight="-10dp"
+        android:layout_marginTop="10dp"
+        android:focusable="true"
+        android:hint="Enter your name"
+        android:singleLine="true"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+</RelativeLayout>

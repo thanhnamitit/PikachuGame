@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorOfTextOfButton">#FF1744</color>
+    <color name="colorOfTextOfInfo">#6A1B9A</color>
+    <color name="optionsDialog">#2196F3</color>
+
+</resources>

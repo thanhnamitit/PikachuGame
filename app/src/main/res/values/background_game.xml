@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgc12">#B39DDB</color>
+    <color name="bgc22">#9575CD</color>
+
+    <color name="bgc13">#C5E1A5</color>
+    <color name="bgc23">#81C784</color>
+
+    <color name="bgc14">#BCAAA4</color>
+    <color name="bgc24">#A1887F</color>
+
+    <color name="bgc15">#80CBC4</color>
+    <color name="bgc25">#26A69A</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <stroke
+        android:width="@dimen/strock_value"
+        android:color="@color/strock_color_2" />
+    <corners android:radius="@dimen/radius_value"></corners>
+    <padding
+        android:bottom="@dimen/pading_value"
+        android:left="@dimen/pading_value"
+        android:right="@dimen/pading_value"
+        android:top="@dimen/pading_value"></padding>
+
+    <solid android:color="@color/cb22"></solid>
+
+
+</shape><!-- From: file:/D:/Android%20game/PikachuGame/app/src/main/res/drawable/b22.xml -->

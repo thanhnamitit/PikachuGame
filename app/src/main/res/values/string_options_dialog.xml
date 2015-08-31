@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="music">Music: </string>
+    <string name="sound">Sound: </string>
+<string name="alpha">Alpha: </string>
+</resources>
